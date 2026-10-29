@@ -1,0 +1,6 @@
+{
+  "name": "Labour Attendance",
+  "description": "Labour attendance, daily wage & overtime management with WhatsApp slip generation and mobile-based admin/worker access",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
